@@ -1,0 +1,7 @@
+
+    Directory: C:\Users\kliet\OneDrive\Documents\Digital Forensics\df-mod3-sdm\EncryptedEvidence
+
+Path                  Owner                 Access
+----                  -----                 ------
+encryptedEvidence.txt DESKTOP-NADRQG3\kliet NT AUTHORITY\SYSTEM Allow  FullControl…
+

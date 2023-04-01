@@ -1,0 +1,7 @@
+
+Circular            15728640         511 Windows PowerShell
+Circular            15728640          49 PowerShellCore/Operational
+Circular            15728640         363 Microsoft-Windows-PowerShell/Operational
+Retain            1048985600           0 Microsoft-Windows-PowerShell/Admin
+Circular             1052672           0 Microsoft-Windows-PowerShell-DesiredStateConfigur…
+
